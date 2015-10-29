@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseFeatureIdString</key>
+	<string>ru.ApogeeStudio.Bash.</string>
+	<key>Consumables</key>
+	<array>
+		<string>ru.ApogeeStudio.Bash.Donate33</string>
+		<string>ru.ApogeeStudio.Bash.Donate66</string>
+		<string>ru.ApogeeStudio.Bash.Donate99</string>
+	</array>
+	<key>Non-Consumables</key>
+	<array>
+		<string>ru.ApogeeStudio.Bash.RemoveAds</string>
+		<string>ru.ApogeeStudio.Bash.RemoveAds33</string>
+	</array>
+</dict>
+</plist>

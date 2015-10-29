@@ -1,0 +1,33 @@
+PODS:
+  - DACircularProgress (2.2.0)
+  - Google-AdMob-Ads-SDK (6.12.2)
+  - google-plus-ios-sdk (1.7.1)
+  - GoogleAnalytics-iOS-SDK (3.10):
+    - GoogleAnalytics-iOS-SDK/Core (= 3.10)
+  - GoogleAnalytics-iOS-SDK/Core (3.10)
+  - HTMLReader (0.5.9)
+  - Reachability (3.2)
+  - SSKeychain (1.2.2)
+  - VK-ios-sdk (1.0.8.6)
+
+DEPENDENCIES:
+  - DACircularProgress
+  - Google-AdMob-Ads-SDK
+  - google-plus-ios-sdk
+  - GoogleAnalytics-iOS-SDK
+  - HTMLReader
+  - Reachability
+  - SSKeychain
+  - VK-ios-sdk
+
+SPEC CHECKSUMS:
+  DACircularProgress: 3b41941891a56dc6aa17971f5322a9a38a6f446e
+  Google-AdMob-Ads-SDK: 9776de20c7904bd29dc37f81e24707cdee9c706c
+  google-plus-ios-sdk: bb7b918c2ee0d5f5e389c4fddc06d71995481f67
+  GoogleAnalytics-iOS-SDK: f422062075d9ccb1ea8d783fc5ba3829461e9502
+  HTMLReader: 0833fa2af5fd2019bc2d7a6e8066a07fd0fe87f1
+  Reachability: 1ef8adf5c4e3d362f96515d4278f68dad3c26930
+  SSKeychain: cc48bd3ad24fcd9125adb9e0d23dd50b8bbd08b9
+  VK-ios-sdk: 2388a23081481384b1ad67d9e988d4dd9f8973d3
+
+COCOAPODS: 0.35.0
